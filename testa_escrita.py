@@ -1,5 +1,4 @@
-arquivo_contatos = open('dados/contatos-escrita.csv',
-                        encoding='latin_1', mode='a+')
+arquivo_contatos = open('dados/contatos-escrita.csv', encoding='latin_1', mode='a+')
 
 contatos = ['11,Carol,carol@carol.com.br\n',
             '12,Ana,ana@ana.com.br\n',
